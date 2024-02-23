@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, ReactJS, Context API, React Hooks.
 - Clone the repository:
 
 ```
-    git clone git@github.com:MarianeAlgayer/star-wars-planets-search-project.git
+    git clone git@github.com:keshavjha005/star-wars-planets-search-project.git
 ```
 
 - Navigate into the project directory:
