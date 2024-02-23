@@ -1,0 +1,33 @@
+#filters-wrapper, #sort-wrapper {
+  align-items: center;
+  background-color: var(--secondary-background-color);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+#filters-wrapper {
+  margin-bottom: 16px;
+}
+
+#sort-wrapper {
+  margin-bottom: 40px;
+}
+
+form {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#filters-list {
+  margin: 0 0 40px 16px;
+}
+
+.title-wrapper, .applied-filter {
+  align-items: center;
+  display: flex;
+  margin-top: 12px;
+}
